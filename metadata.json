@@ -1,0 +1,6 @@
+{
+  "name": "PeTaNiFlix - Streaming UI/UX Studio",
+  "description": "Desain UI/UX lengkap, interaktif, dan sistematis aplikasi streaming PeTaNiFlix mobile Android Flutter dengan tema Emerald Cyber-Glass, video player canggih, dan arsitektur Node.js PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
